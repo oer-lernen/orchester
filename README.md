@@ -20,3 +20,4 @@ Kommas Orchester © 2026 Sebastian Wolf
 lizenziert unter CC BY-SA 4.0
 Du darfst das Programm teilen und bearbeiten, auch kommerziell. Bedingungen sind die Namensnennung und die Weitergabe unter gleichen Bedingungen.
 Mit dem Programm erstellte Stücke gehören ihren Urheberinnen und Urhebern.
+Transparenzhinweis: Diese Anwendung wurde mithilfe der KI Opus 5.5 erstellt.
