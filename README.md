@@ -14,10 +14,11 @@ Speichern und Laden eines Stücks als .json-Datei zum Weiterarbeiten
 Jedes Instrument lässt sich stummschalten. Außerdem gibt es Rückgängig, Leeren, Neu und ein Beispielstück.
 Vollbildmodus, geeignet für Smartboard, Tablet, Smartphone und PC
 Ein Tipp auf einen Notennamen spielt den Ton zur Probe vor.
+Der Haus-Knopf oben rechts führt zur Startseite prima.kommakatze.de (fragt vorher; offline ausgeblendet).
 
 ## 📄 Lizenz
 Kommas Orchester © 2026 Sebastian Wolf
 lizenziert unter CC BY-SA 4.0
 Du darfst das Programm teilen und bearbeiten, auch kommerziell. Bedingungen sind die Namensnennung und die Weitergabe unter gleichen Bedingungen.
 Mit dem Programm erstellte Stücke gehören ihren Urheberinnen und Urhebern.
-Transparenzhinweis: Diese Anwendung wurde mithilfe der KI Opus 5.5 erstellt.
+**Transparenzhinweis:** Programmiert mit Unterstützung von KI (Claude, Anthropic). Idee, Inhalte und fachliche Prüfung: Sebastian Wolf.
